@@ -1,0 +1,9 @@
+C:\Users\NICO-PC\Desktop\TPFinalNivel2_NicolasFernandez\negocio\bin\Debug\negocio.dll
+C:\Users\NICO-PC\Desktop\TPFinalNivel2_NicolasFernandez\negocio\bin\Debug\negocio.pdb
+C:\Users\NICO-PC\Desktop\TPFinalNivel2_NicolasFernandez\negocio\bin\Debug\dominio.dll
+C:\Users\NICO-PC\Desktop\TPFinalNivel2_NicolasFernandez\negocio\bin\Debug\dominio.pdb
+C:\Users\NICO-PC\Desktop\TPFinalNivel2_NicolasFernandez\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\NICO-PC\Desktop\TPFinalNivel2_NicolasFernandez\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\NICO-PC\Desktop\TPFinalNivel2_NicolasFernandez\negocio\obj\Debug\negocio.dll
+C:\Users\NICO-PC\Desktop\TPFinalNivel2_NicolasFernandez\negocio\obj\Debug\negocio.pdb
+C:\Users\NICO-PC\Desktop\TPFinalNivel2_NicolasFernandez\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache

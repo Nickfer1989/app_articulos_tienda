@@ -1,0 +1,17 @@
+C:\Users\NICO-PC\Desktop\TPFinalNivel2_NicolasFernandez\presentacion\bin\Debug\presentacion.exe.config
+C:\Users\NICO-PC\Desktop\TPFinalNivel2_NicolasFernandez\presentacion\bin\Debug\presentacion.exe
+C:\Users\NICO-PC\Desktop\TPFinalNivel2_NicolasFernandez\presentacion\bin\Debug\presentacion.pdb
+C:\Users\NICO-PC\Desktop\TPFinalNivel2_NicolasFernandez\presentacion\obj\Debug\presentacion.csproj.AssemblyReference.cache
+C:\Users\NICO-PC\Desktop\TPFinalNivel2_NicolasFernandez\presentacion\obj\Debug\presentacion.Properties.Resources.resources
+C:\Users\NICO-PC\Desktop\TPFinalNivel2_NicolasFernandez\presentacion\obj\Debug\presentacion.csproj.GenerateResource.cache
+C:\Users\NICO-PC\Desktop\TPFinalNivel2_NicolasFernandez\presentacion\obj\Debug\presentacion.csproj.CoreCompileInputs.cache
+C:\Users\NICO-PC\Desktop\TPFinalNivel2_NicolasFernandez\presentacion\obj\Debug\presentacion.exe
+C:\Users\NICO-PC\Desktop\TPFinalNivel2_NicolasFernandez\presentacion\obj\Debug\presentacion.pdb
+C:\Users\NICO-PC\Desktop\TPFinalNivel2_NicolasFernandez\presentacion\obj\Debug\presentacion.frmArticulos.resources
+C:\Users\NICO-PC\Desktop\TPFinalNivel2_NicolasFernandez\presentacion\bin\Debug\dominio.dll
+C:\Users\NICO-PC\Desktop\TPFinalNivel2_NicolasFernandez\presentacion\bin\Debug\dominio.pdb
+C:\Users\NICO-PC\Desktop\TPFinalNivel2_NicolasFernandez\presentacion\obj\Debug\presentacion.csproj.CopyComplete
+C:\Users\NICO-PC\Desktop\TPFinalNivel2_NicolasFernandez\presentacion\bin\Debug\negocio.dll
+C:\Users\NICO-PC\Desktop\TPFinalNivel2_NicolasFernandez\presentacion\bin\Debug\negocio.pdb
+C:\Users\NICO-PC\Desktop\TPFinalNivel2_NicolasFernandez\presentacion\obj\Debug\presentacion.frmAltaArticulo.resources
+C:\Users\NICO-PC\Desktop\TPFinalNivel2_NicolasFernandez\presentacion\obj\Debug\presentacion.frmDetalle.resources
